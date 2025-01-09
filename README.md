@@ -20,8 +20,8 @@ Atualmente cursando Análise em Cyber Segurança.
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> -->
-<!--<a href="https://github.com/raimarsilva?tab=repositories&sort=stargazers">
+    </a> 
+<a href="https://github.com/raimarsilva?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -119,14 +119,14 @@ Atualmente cursando Análise em Cyber Segurança.
 ### 📊 Estatísticas
 
 <p>
-  <img 
+  <!--<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=raimarsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     max-width="90%" 
-  />
+  />-->
 <img 
       align="left" 
       alt="GitHub Stats" 
