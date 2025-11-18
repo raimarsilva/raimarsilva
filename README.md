@@ -112,6 +112,14 @@ Analista de Cyber Segurança.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
 
 <br/>
 <br/>
